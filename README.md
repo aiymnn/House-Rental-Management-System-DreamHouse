@@ -5,7 +5,8 @@ Dream House is a web-based House Rental Management System designed to streamline
 ## Screenshots
 
 Guest
-https://github.com/aiymnn/House-Rental-Management-System-DreamHouse/blob/95820160f2a0df66e0fda8f32005fcca9fa71784/main.png
+
+![Image Alt]([image_url](https://github.com/aiymnn/House-Rental-Management-System-DreamHouse/blob/main/screenshorts/main.png?raw=true))
 
 Tenant
 
