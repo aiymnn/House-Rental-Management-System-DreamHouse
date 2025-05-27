@@ -44,6 +44,12 @@ Agent-Dashboard
 Admin has full authority to manage and control the entire system. This includes registering and managing agents and landlords, approving property listings, assigning agents to new properties, and approving rental contracts submitted by agents. Admins can also monitor agent performance through KPI tracking, such as the number of appointments handled and successful deals closed. Agents are considered part of the staff and are overseen by the admin for operational efficiency.
 
 Admin-Dashboard
-
+![Image Alt](https://github.com/aiymnn/House-Rental-Management-System-DreamHouse/blob/1b1f7e76266b7a4f91acaf956e9c1135bbde8efd/screenshorts/Admin/dashboard.png)
 
 Admin-Agent-KPI
+![Image Alt](https://github.com/aiymnn/House-Rental-Management-System-DreamHouse/blob/1b1f7e76266b7a4f91acaf956e9c1135bbde8efd/screenshorts/Admin/agent-kpi.png)
+
+## Project Conclusion
+Dream House - House Rental Management System is a web-based rental management system developed as a local project for academic and learning purposes. The system supports multiple user roles including Guest, Tenant, Landlord, Agent, and Admin, each with clearly defined responsibilities and workflows.
+
+While the system already covers the core functionalities of a rental platform, there is still room for improvement to enhance the logic, flow, and overall user experience. Future enhancements can be guided by the interface and feature references provided in the screenshots folder ffrom the repo.
